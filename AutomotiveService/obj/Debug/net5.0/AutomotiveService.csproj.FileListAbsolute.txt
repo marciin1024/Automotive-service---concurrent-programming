@@ -1,0 +1,15 @@
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.exe
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.deps.json
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.runtimeconfig.json
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.runtimeconfig.dev.json
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.dll
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\bin\Debug\net5.0\AutomotiveService.pdb
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.AssemblyInfoInputs.cache
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.AssemblyInfo.cs
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.csproj.CoreCompileInputs.cache
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.dll
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\refint\AutomotiveService.dll
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.pdb
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\AutomotiveService.genruntimeconfig.cache
+D:\Studia\Projekty\PW\AutomotiveService\AutomotiveService\obj\Debug\net5.0\ref\AutomotiveService.dll
